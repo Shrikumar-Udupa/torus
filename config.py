@@ -1,0 +1,6 @@
+customhost = "awslive.ckjfsz6htds5.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "*****"
+customdb = "awslive"
+custombucket = "awslive-bucket"
+customregion = "us-east-1"
